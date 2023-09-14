@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Task1_.Animal" Collapsed="true">
+    <Position X="23.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAABAQAQUAAAAAAAAAAAEAABEQAEAAAABBAA=</HashCode>
+      <FileName>Animal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task1_.Mammal" Collapsed="true">
+    <Position X="26.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAACAAAAAAAEAAAAAAAIAIICAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Mammal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task1_.Cow" Collapsed="true">
+    <Position X="27.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQIAAAAAAAAAAEAAAAAAAAAAAACAAACAAAAAAAAAA=</HashCode>
+      <FileName>Cow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task1_.Hipo" Collapsed="true">
+    <Position X="25.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAEAAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Hipo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task1_.Reptile" Collapsed="true">
+    <Position X="20.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAQAQAAAAAAAAAA=</HashCode>
+      <FileName>Reptile .cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task1_.Crocodile" Collapsed="true">
+    <Position X="19" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAgAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Crocodile .cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task1_.Snake" Collapsed="true">
+    <Position X="21.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAACAAAAAAAAAAAAAAAAIAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Snake .cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task1_.Bird" Collapsed="true">
+    <Position X="23.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABIAAAAAgAAAIAAAAAAAAAAAAAMACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bird .cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task1_.snakeSeveralHeaded" Collapsed="true">
+    <Position X="21.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAQA=</HashCode>
+      <FileName>snakeSeveralHeaded.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task1_.hoopoe">
+    <Position X="23.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQBQAAAAAA=</HashCode>
+      <FileName>hoopoe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
